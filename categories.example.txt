@@ -1,0 +1,5 @@
+# slug<TAB>category-browse-url  (one per line, # = comment)
+# Example — replace with your own links:
+# shoes<TAB>https://torob.com/browse/shoes/
+# phones	https://torob.com/browse/mobile/
+shoes   

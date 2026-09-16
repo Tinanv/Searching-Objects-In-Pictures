@@ -1,3 +1,13 @@
 .vscode/
 clip-ViT-B-32/
 venv/
+__pycache__/
+*.log
+categories.txt
+categories2.txt
+.browser-profile/
+dataset.zip
+Document_Final_Project.docx
+Document_Final_Project.pdf
+yolo26n-seg.pt
+yolov8m-seg.pt
